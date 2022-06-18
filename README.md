@@ -1,10 +1,6 @@
-# Data analysis
-- Document here the project: wanli-utils
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+# Summary
+- Project: wanli-utils
+- Description: Useful utils learned or created
 
 # Startup the project
 
